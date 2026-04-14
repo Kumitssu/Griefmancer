@@ -1,7 +1,7 @@
 /**
 *	@filename	concentration.js
 *	@author		Kumitssu
-*	@desc		Conc, bash, find item, bo, berserk - AIO barb
+*	@desc		Conc, bash, find item, bo, berserk - AIO barb. Use ConcRunewords.
 *	@credits	Kumitssu, Adpist
 *
 */
